@@ -10,4 +10,8 @@ versiones.
 ## Tecnologías utilizadas
 - Git
 - GitHub
-- Markdown 
+- Markdown
+
+- | Recurso |Tipo  |Enlace
+| Git Book | Documentación oficial | https://git-scm.com/book |
+| Markdown Guide | Guía interactiva | https://www.markdownguide.org |
